@@ -1,0 +1,4 @@
+- To Format Automatically (currently setup to use Prettier)
+  1. alt + shift + f
+
+- 
