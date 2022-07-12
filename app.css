@@ -69,3 +69,15 @@ a[href*="google"] {
 .post button:active {
   background-color: #02c39a;
 }
+
+h2::first-letter {
+  font-size: 50px;
+}
+
+p::first-line {
+  color: purple;
+}
+
+p::selection {
+  background-color: #fcbf49;
+}
