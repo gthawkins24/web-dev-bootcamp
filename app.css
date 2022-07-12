@@ -30,6 +30,10 @@ span {
   font-size: 16px;
 }
 
-span a {
+.post a {
   color: #457b9d;
+}
+
+footer a {
+  color: #e33949;
 }
