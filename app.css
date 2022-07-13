@@ -22,7 +22,7 @@ h2 {
 }
 
 span {
-  color: #457b9d;
+  color: #457b9d !important;
 }
 
 .tag {
