@@ -16,17 +16,21 @@ h1 {
   line-height: 80px;
 }
 
-h2 {
+#ems h2 {
   font-size: 2em;
   margin-left: 1em;
 }
 
-h3 {
+#ems h3 {
   font-size: 1.5em;
 }
 
-p {
+#ems p {
   font-size: 1em;
+}
+
+#ems {
+  font-size: 15px;
 }
 
 article {
@@ -39,4 +43,8 @@ button {
   border-radius: .5em;
   background-color: teal;
   color: white;
+}
+
+ul {
+  font-size: 0.7em;
 }
